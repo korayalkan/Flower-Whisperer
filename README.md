@@ -13,6 +13,10 @@ Our objective is to build an intelligent system capable of precisely classifying
 - Deep Learning
 - Image Processing
 
+## Access the Dataset
+
+To access the dataset used in this project, visit [Flowers Recognition Kaggle Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition/data) on Kaggle. Follow the dataset's page for download and usage instructions.
+
 ## Dataset Structure
 
 - `daisy/`: Images of Daisy flowers
